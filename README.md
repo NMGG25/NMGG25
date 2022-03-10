@@ -16,18 +16,17 @@ ____
 ➡ Innocent Guy Discord Bot
 
 ____
-**My Discord Profile :-** 
+**My Github Stats**
 
-![](profile.jpg)
-
-<style type="text/css">
-    img {
-        width: 200px;
-    }
-</style>
+![Joshua's stats](https://github-readme-stats.vercel.app/api?username=NMGG25&show_icons=true&theme=radical)
 
 ____
-**My Discord Server :-**
+**Discord Profile**
+
+[Profile](https://discord.com/users/765120832887455755)
+
+____
+**Discord Server :-**
 
 ➡ Gamers Only Server 
 
