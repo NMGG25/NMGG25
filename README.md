@@ -1,8 +1,32 @@
 Sup 🤙 
 
-- What do I know?
+**My Knowledge :-**
 
-<img src="html.png" width="105">  
-<img src="css.png" width="105"> 
-<img src="js.png" =20x20>
-<img src="./assets/discord.js.png" width="120">
+![](html.png "HTML")
+![](css.png "CSS")
+![](js.png "JS")
+![](discord.js.png "Discord.js")
+
+<style type="text/css">
+    img {
+        width: 100px;
+    }
+</style>
+
+**My Projects :-**
+
+Personal Portfolio
+
+[Butter Brains](https://discord-butter-brains-bot-documentation.nmgg.repl.co/) Discord Bot
+
+Innocent Guy Discord Bot
+
+**My Discord Profile :-** 
+
+
+
+**My Discord Server :-**
+
+Gamers Only Server 
+
+[Join here](https://dsc.gg/gamersonlyserver)
