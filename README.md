@@ -1,32 +1,34 @@
-Sup 🤙 
+### Sup, I'm Joshua 🤙 
 
+____
 **My Knowledge :-**
 
-![](html.png "HTML")
-![](css.png "CSS")
-![](js.png "JS")
-![](discord.js.png "Discord.js")
+<p align="left"><a href="LINK_HERE" target="_blank"><img src="https://cdn.discordapp.com/attachments/855346697029812231/873199215512285235/discord-js.png" alt="discord-js.png" height="40" width="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://devdocs.io/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+</p>
+
+____
+**My Projects :-**
+
+➡ *Personal Portfolio*
+
+➡ [Butter Brains](https://discord-butter-brains-bot-documentation.nmgg.repl.co/) Discord Bot
+
+➡ Innocent Guy Discord Bot
+
+____
+**My Discord Profile :-** 
+
+![](profile.jpg)
 
 <style type="text/css">
     img {
-        width: 100px;
+        width: 200px;
     }
 </style>
 
-**My Projects :-**
-
-Personal Portfolio
-
-[Butter Brains](https://discord-butter-brains-bot-documentation.nmgg.repl.co/) Discord Bot
-
-Innocent Guy Discord Bot
-
-**My Discord Profile :-** 
-
-
-
+____
 **My Discord Server :-**
 
-Gamers Only Server 
+➡ Gamers Only Server 
 
 [Join here](https://dsc.gg/gamersonlyserver)
