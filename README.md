@@ -7,6 +7,13 @@ ____
 </p>
 
 ____
+**Tools I use :-**
+
+<p align="left"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="40" width="40" /></a>
+<a href="https://code.visualstudio.com/insiders/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" height="40" width="40"></a>
+<a href="https://replit.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" height="50" width="50"></a>
+
+____
 **My Projects :-**
 
 ➡ *Personal Portfolio*
@@ -20,13 +27,15 @@ ____
 
 ![Joshua's stats](https://github-readme-stats.vercel.app/api?username=NMGG25&show_icons=true&theme=radical)
 
-____
-**Discord Profile**
+___
+**My Discord Profile :-**
 
-[Profile](https://discord.com/users/765120832887455755)
+<a href="https://discordapp.com/users/765120832887455755/">
+  <img src="https://discord.c99.nl/widget/theme-3/765120832887455755.png" />
+</a>
 
 ____
-**Discord Server :-**
+**My Discord Server :-**
 
 ➡ Gamers Only Server 
 
